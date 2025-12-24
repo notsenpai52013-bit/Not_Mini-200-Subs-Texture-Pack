@@ -13,6 +13,16 @@
   "background": {
     "service_worker": "background.js"
   },
+  "permissions": [
+    "declarativeNetRequest",
+    "declarativeNetRequestWithHostAccess",
+    "storage"
+  ],
+  "host_permissions": [
+    "*://miniblox.online/*",
+    "*://miniblox.io/*",
+    "*://raw.githubusercontent.com/*"
+  ],
   "web_accessible_resources": [
     {
       "resources": [
