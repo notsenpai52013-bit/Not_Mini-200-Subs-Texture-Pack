@@ -1,0 +1,20 @@
+{
+  "manifest_version": 3,
+  "name": "Not_Mini 200 Subs Texture Pack",
+  "version": "1.0.0",
+  "description": "A special texture pack for celebrating 200 subs! Enjoy custom skins and textures.",
+  "author": "Not_Mini",
+  "icons": {
+    "16": "icon16.png",
+    "32": "icon32.png",
+    "48": "icon48.png",
+    "128": "icon128.png"
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://miniblox.online/*", "https://miniblox.io/*"],
+      "js": ["main.js"],
+      "run_at": "document_start"
+    }
+  ]
+}
