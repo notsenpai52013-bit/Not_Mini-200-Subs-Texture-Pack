@@ -2,7 +2,7 @@
   "update_url": "https://clients2.google.com/service/update2/crx",
 
   "manifest_version": 3,
-  "name": "Not_Mini 200 Subs Texture Pack - Tools Only",
+  "name": "Not_Mini 200 Subs Texture Pack",
   "version": "1.0.0",
   "description": "A browser extension to replace MiniBlox tools with custom textures for 200 subs!",
   "author": "Not_Mini",
