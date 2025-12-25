@@ -1,5 +1,5 @@
 const URL_MAP = {
-  "||miniblox.*textures/spritesheet.png": "https://raw.githubusercontent.com/notsenpai52013-bit/Not_Mini-200-Subs-Texture-Pack/refs/heads/main/spritesheet-t%20(6)%20(7)%20(2).png"
+  "||miniblox.*textures/spritesheet.png": "https://raw.githubusercontent.com/notsenpai52013-bit/Not_Mini-200-Subs-Texture-Pack/refs/heads/main/spritesheet-t%20(6)%20(7)%20(3).png"
 };
 
 let rules = [];
