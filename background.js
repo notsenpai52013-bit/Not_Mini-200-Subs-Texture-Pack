@@ -1,5 +1,5 @@
 const URL_MAP = {
-  "||miniblox.*textures/spritesheet.png": "https://raw.githubusercontent.com/notsenpai52013-bit/Not_Mini-200-Subs-Texture-Pack/refs/heads/main/spritesheet%20(1)%20(1)%20(1)%20(1)%20(1)%20(1)%20(4)%20(1)%20(1)%20(1)%20(1).png",
+  "||miniblox.*textures/spritesheet.png": "https://raw.githubusercontent.com/notsenpai52013-bit/Not_Mini-200-Subs-Texture-Pack/refs/heads/main/spritesheet%20(1)%20(1)%20(1)%20(1)%20(1)%20(1)%20(4)%20(1)%20(1)%20(1)%20(1)%20(1)%20(2).png",
   "||miniblox.*textures/models/armor/chainmail_layer_1.png": "https://raw.githubusercontent.com/notsenpai52013-bit/Not_Mini-200-Subs-Texture-Pack/refs/heads/main/armor/chainmail_layer_1.png",
   "||miniblox.*textures/models/armor/chainmail_layer_2.png": "https://raw.githubusercontent.com/notsenpai52013-bit/Not_Mini-200-Subs-Texture-Pack/refs/heads/main/armor/chainmail_layer_2.png",
   "||miniblox.*textures/models/armor/diamond_layer_1.png": "https://raw.githubusercontent.com/notsenpai52013-bit/Not_Mini-200-Subs-Texture-Pack/refs/heads/main/armor/diamond_layer_1.png",
